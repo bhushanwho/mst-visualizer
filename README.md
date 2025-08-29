@@ -1,6 +1,6 @@
 # minimum spanning trees visualizer
 
-course based project for Design and Analysis of Algorithms, 2/4 IV-SEM. Novemeber 2024.
+course based project for Design and Analysis of Algorithms, 2/4 IV-SEM. March 2025.
 
 visualizes minimum spanning tree algorithms (prims & kruskals) step by step on a graph.
 
